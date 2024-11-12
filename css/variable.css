@@ -1,0 +1,20 @@
+:root {
+--bg-size:117px;
+--number-size:48px;
+--h1-size:64px;
+--h2-size:32px;
+--logo-size:32px;
+--menu-size:24px;
+--button-size:20px;
+--article-size:16px;
+--background-color1:#292F36;
+--background-color2:#1A1E23;
+--brend1-color:#12F7D6;
+--brend2-color:#98FAEC;
+--grey-color:#43454D;
+--html-color:#E54F26;
+--css-color:#0C73B8;
+--js-color:#E7A020;
+--react-color:#28A9E0;
+--white-color:white;
+}
